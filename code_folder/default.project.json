@@ -1,0 +1,26 @@
+{
+  "name": "code_folder",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Classes" : {
+        "$path": "src/classes"
+      },
+      "Libraries" : {
+        "$path": "src/libraries"
+      }
+    },
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}
